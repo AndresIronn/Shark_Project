@@ -49,7 +49,7 @@ Viendo los porcentajes de la gráfica presentada anteriormente, se puede ver que
 
  ![Alt Text](Images/provoked_unprovoked_species.png)
  
- Se puede ver que si bien el tiburón blanco tiene un alto porcentaje de ataques no provocados, el total de ataques provocados es superior a los ataques de las otras especies (tanto provocados como no provocados). Por lo que se vuelve a confirmar la hipótesis sobre la agresividad del tiburón blanco.
+ Se puede ver que si bien el tiburón blanco tiene un alto porcentaje de ataques provocados, el total de ataques no provocados es superior a los ataques de las otras especies (tanto provocados como no provocados). Por lo que se vuelve a confirmar la hipótesis sobre la agresividad del tiburón blanco.
 
 
  
