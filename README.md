@@ -1,5 +1,6 @@
 # Shark-Proyect 
 ![Alt Text](Images/tiburon.jpg)
+
 En este proyecto se tuvo que estudiar el DataFrame "attacks" utilizando Pandas. Primero se exploró y se limpió el dataset, se plantearon 3 hipótesis, se visualizaron resultados y finalmente se hicieron conclusiones. Para la limpieza se eliminaron duplicados, nulos, columnas que no aportaban información, entre otras cosas. Algo importante respecto a los nulos fue que para cada hipótesis, se realizaron subsets con columnas de interés y se les hizo una copia para poder borrar los nulos ahí mismo y no afectar al DataFrame original.
 
 Las hipótesis utilizadas fueron las siguientes:
