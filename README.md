@@ -8,7 +8,7 @@ Las hipótesis utilizadas fueron las siguientes:
 Hipótesis 1: Los ataques disminuyeron con el paso de los años
 
 
-Me basé en que la gente se fue volviendo más consciente con el paso del tiempo y se fueron creando métodos preventivos de ataques de tiburones. Para ver la validez de esta hipótesis se creó un subset del DataFrame, y se realizó una serie de gráficas. Las 2 que resumen el análisis son las 2 que se presentan a continuación:
+Me basé en que la gente se fue volviendo más consciente con el paso del tiempo y se fueron creando métodos preventivos de ataques de tiburones. Para ver la validez de esta hipótesis se creó un subset del DataFrame, y se realizó una serie de gráficas. La gráfica que mejor resume este análisis se presenta a continuación:
 
 ![Alt Text](Images/attacks_and_deaths.png)
 
