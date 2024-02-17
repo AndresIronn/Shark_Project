@@ -1,5 +1,5 @@
 # Shark-Proyect 
-![Alt Text](tiburon.jpg)
+![Alt Text](Images/tiburon.jpg)
 En este proyecto se tuvo que estudiar el DataFrame "attacks" utilizando Pandas. Primero se exploró y se limpió el dataset, se plantearon 3 hipótesis, se visualizaron resultados y finalmente se hicieron conclusiones. Las hipótesis utilizadas fueron las siguientes:
 
 Hipótesis 1: Los ataques disminuyeron con el paso de los años
