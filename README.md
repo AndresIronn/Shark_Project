@@ -20,7 +20,7 @@ Del gráfico superior se puede ver que no solo no se cumple la hipótesis plante
 
 Se puede observar que la curva roja siempre está comlpetamente por debajo de la azul. Esto tiene sentido ya que las muertes son un caso particular de los ataques (son ataques mortales). Por lo que para ningún año se puede dar que hayan más muertes que ataques. Que se haya cumplido dicha condición, le da cierta credibilidad a los datos del DataFrame. 
 
-Otra observación es que la cantidad de muertes a lo largo del siglo XX tiene una tendencia a ser constante. No tiene valores que estén demasiado desviados de la media. Sin embargo, la cantidad de ataques tiene una tendencia clara a aumentar. Esto indica que con el paso del tiempo, el porcentaje de *ataques letales/ataques generales* por cada año, disminuye en gran medida. Eso nos muestra que la mayoría de los ataques de estas últimas décadas no fueron letales. Yo creo que esto se debe en gran parte a los avances en medicina. Generalmente, en los ataques de tiburones se desprende mucha sangre de la víctima, puede haber amputaciones, daño en algún órgano, etc. El hecho de tener una medicina mucho mas avanzada que la que había en los años más proximos al 1900, hace una gran diferencia. También se da que en la actualidad, la gente tiene una mayor consciencia que antes debido a la gran cantidad de información que hay disponible (parte será debida a aprender de experiencias negativas, estudios biológicos, etc). Esto (además de ayudar en prevención de ataques) hace que la gente sepa cómo reaccionar frente a un ataque con mayor claridad que antes, generando que el porcentaje de muertos sobre ataques totales sea mucho menor del que había a principios del siglo.
+Otra observación es que la cantidad de muertes a lo largo del siglo XX tiene una tendencia a ser constante. No tiene valores que estén demasiado desviados de la media. Sin embargo, la cantidad de ataques tiene una tendencia clara a aumentar. Esto indica que con el paso del tiempo, el porcentaje de *ataques letales/ataques generales* por cada año, disminuye en gran medida. Eso nos muestra que la mayoría de los ataques de estas últimas décadas no fueron letales. Yo creo que esto se debe en gran parte a los avances en medicina. El hecho de tener una medicina mucho mas avanzada que la que había en los años más proximos al 1900, hace una gran diferencia. 
 
 Ahora se va a hacer otra representación de la gráfica anterior para ayudar con la visualización.  
 
@@ -39,7 +39,7 @@ Decidí agregar otra gráfica a este análisis que incluya la provocación del h
 
  ![Alt Text](Images/provoked_unprovoked_gender.png)
 
-Viendo los porcentajes de la gráfica presentada a anteriormente, se puede ver que el hombre es menos cuidadoso que la mujer, al menos en este tipo de situaciones acuáticas.
+Viendo los porcentajes de la gráfica presentada anteriormente, se puede ver que el hombre es menos cuidadoso que la mujer, al menos en este tipo de situaciones acuáticas.
 
  Hipótesis 3: El tiburón blanco es la especie más agresiva
 
