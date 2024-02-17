@@ -44,9 +44,11 @@ Viendo los porcentajes de la gráfica presentada anteriormente, se puede ver que
  Hipótesis 3: El tiburón blanco es la especie más agresiva
 
  ![Alt Text](Images/attacks_per_species.png)
+ 
  En la representación presentada arriba, se puede ver el número de ataques de las 5 especies que tuvieron valores más altos. El tiburón blanco supera ampliamente a la cantidad de ataques del segundo (Tiger shark), y con un gran margen (más del doble de ataques). Para ver que tan agresivo es el animal, es importante ver nuevamente la relación entre ataques provocados y no provocados, por cada especie. Porque en teoría podría pasar que el tiburón blanco sea tranquilo pero justo la gente tienda a molestar especialmente a esa especie y por eso decidiera atacar. Para ver esto, veamos el siguiente diagrama:
 
  ![Alt Text](Images/provoked_unprovoked_species.png)
+ 
  Se puede ver que si bien el tiburón blanco tiene un alto porcentaje de ataques no provocados, el total de ataques provocados es superior a los ataques de las otras especies (tanto provocados como no provocados). Por lo que se vuelve a confirmar la hipótesis sobre la agresividad del tiburón blanco.
 
 
