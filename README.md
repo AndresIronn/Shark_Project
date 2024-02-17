@@ -45,7 +45,7 @@ Viendo los porcentajes de la gráfica presentada anteriormente, se puede ver que
 
  ![Alt Text](Images/attacks_per_species.png)
  
- En la representación presentada arriba, se puede ver el número de ataques de las 5 especies que tuvieron valores más altos. El tiburón blanco supera ampliamente a la cantidad de ataques del segundo (Tiger shark), y con un gran margen (más del doble de ataques). Para ver que tan agresivo es el animal, es importante ver nuevamente la relación entre ataques provocados y no provocados, por cada especie. Porque en teoría podría pasar que el tiburón blanco sea tranquilo pero justo la gente tienda a molestar especialmente a esa especie y por eso decidiera atacar. Para ver esto, veamos el siguiente diagrama:
+ En la representación presentada arriba, se puede ver el número de ataques de las 5 especies que tuvieron valores más altos. El tiburón blanco supera ampliamente a la cantidad de ataques del segundo (Tiger shark), y con un gran margen (más del doble de ataques). Para ver que tan agresivo es el animal, es importante ver nuevamente la relación entre ataques provocados y no provocados, por cada especie. Para ver esto, veamos el siguiente diagrama:
 
  ![Alt Text](Images/provoked_unprovoked_species.png)
  
